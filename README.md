@@ -9,7 +9,7 @@ Welcome to my portfolio website, This site demonstrates my proficiency in HTML, 
 - **HTML5**
 - **CSS3**
 - **JavaScript**
-- **Figma**: For design and prototyping.
+- **Figma**: For design. link: https://www.figma.com/design/XuvPbuU08I2N4hqd0QF2HE/Portfolio-Wireframe-and-Mockup?node-id=0-1&t=6qIbBLvG06Dlrezw-1
 - **Color Hunt**: For curated color palettes.
 - **FontAwesome**: For icons.
 
