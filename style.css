@@ -38,7 +38,7 @@ nav {
 nav ul {
     list-style-type: none;
     display: flex;
-    gap: 20px;
+    gap: 30px;
 }
 a {
     text-decoration: none;
@@ -58,7 +58,9 @@ div .section:nth-of-type(even) {
 }
 .grid-container {
     display: grid;
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: repeat(4, auto);
+    justify-content: end;
+    gap: 30px;
 }
 .flex-container {
     display: flex;
@@ -142,7 +144,7 @@ div .section:nth-of-type(even) {
 }
 #Familiar_with {
     display: flex;
-    gap: 20px 110px;
+    gap: 20px 100px;
     justify-content: space-evenly;
     flex-wrap: wrap;
 }
@@ -214,7 +216,7 @@ div .section:nth-of-type(even) {
     background-color: #393E46;
     border-radius: 5px;
     padding: 16px;
-    margin: 16px 0
+    margin: 0px 0
   }
   
   .container::after {
@@ -236,6 +238,7 @@ div .section:nth-of-type(even) {
   footer {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
+    align-items: center;
     padding-bottom: 30px;
   }
   .socials{
@@ -290,7 +293,9 @@ nav .menu {
         grid-template-columns: 1fr;
         grid-template-rows: 1fr;
     }
-    
+    .grid-container {
+        grid-template-columns: repeat(2, auto);
+    }
 }
 
 @media (max-width: 480px) {
@@ -310,4 +315,5 @@ nav .menu {
         flex-direction: column;
         align-items: center;
     }
+    
 }
