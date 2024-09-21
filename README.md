@@ -19,3 +19,5 @@ Welcome to my portfolio website, This site demonstrates my proficiency in HTML, 
 - background color: #222831
 - sections color: #393E46
 - buttons and hover on links: #00ADB5
+
+  color palette: https://colorhunt.co/palette/222831393e4600adb5eeeeee
