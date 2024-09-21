@@ -3,7 +3,7 @@
 Welcome to my portfolio website, This site demonstrates my proficiency in HTML, CSS, and basic JavaScript, with design support from modern tools like Figma, Color Hunt, and FontAwesome.
 
 ## Live Demo
-[Link to your portfolio website](https://naser-alzaghari.github.io/Portfolio/)  
+(https://naser-alzaghari.github.io/Portfolio/)  
 
 ## Technologies Used
 - **HTML5**
