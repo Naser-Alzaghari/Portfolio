@@ -204,7 +204,6 @@ div .section:nth-of-type(even) {
     }
     50% {
         text-shadow: 1px 1px 5px #00ADB5;
-
     }
     100%{
         text-shadow: 1px 1px 70px #00ADB5;
@@ -220,9 +219,6 @@ div .section:nth-of-type(even) {
   }
   
   .container::after {
-    content: "";
-    clear: both;
-    display: table;
   }
   
   .container img {
@@ -259,7 +255,7 @@ div .section:nth-of-type(even) {
     backdrop-filter: blur(10px);
     width: 200px;
     height: 100vh;
-    transition: ease 1s;
+    transition: right ease 1s;
 }
 .off-screen.active {
     top: 0;
